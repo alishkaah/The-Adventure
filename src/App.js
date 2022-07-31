@@ -1,7 +1,7 @@
 import Loading from './Loading';
 import Events from './Events';
 import './index.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarHead from './Nav';
 // import EventForm from './EventForm';
 // import {
