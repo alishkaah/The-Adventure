@@ -21,7 +21,7 @@ function App() {
   const fetchEvents = async () => {
     setLoading(true)
     try {
-      const response = await fetch('http://localhost:3000/events')
+      const response = await fetch('https://adventure-trip-kenya.herokuapp.com/events')
       const events = await response.json()
       console.log(events);
       setLoading(false)
