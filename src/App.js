@@ -3,9 +3,14 @@ import Events from './Events';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavbarHead from './Nav';
-import EventForm from './EventForm';
+// import EventForm from './EventForm';
+// import {
+//   Switch,
+//   Route
+// } from "react-router-dom";
 
 import React,{useState, useEffect} from 'react';
+
 
 function App() {
   const [loading, setLoading] = useState(false)
@@ -58,8 +63,8 @@ function App() {
   return (
     <div>
       <NavbarHead />
+    
       <Events  events={events} removeTour={removeTour} />
-     
     </div>
   );
 }
