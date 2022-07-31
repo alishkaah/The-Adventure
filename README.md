@@ -13,7 +13,8 @@
  - [Authors Info](#authors-info)
  ## Description
  <p>Basic React web app to check for events in kenya </p>
-[Go Back to the top](#The-Adventure)
+ 
+ [Go Back to the top](#The-Adventure)
 
 ## Features
 
