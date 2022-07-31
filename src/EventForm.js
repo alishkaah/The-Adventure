@@ -26,7 +26,7 @@ function EventForm({handleAddPoem ,deletePoem}) {
     // price
 
   }
-  fetch('https://adventure-trip-kenya.herokuapp.com/events', {
+  fetch('https://reactdbjson.herokuapp.com/events', {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
