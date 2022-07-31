@@ -14,7 +14,11 @@
  ## Description
  <p>Basic React web app to check for events in kenya </p>
  
+<<<<<<< HEAD
  [Go Back to the top](#The-Adventure)
+=======
+[Go Back to the top](#The-Adventure)
+>>>>>>> 477573b7b74d04a7b7d569d62b47b4e581940be3
 
 ## Features
 
